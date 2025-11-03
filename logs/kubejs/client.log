@@ -1,0 +1,16 @@
+[00:10:00] [INIT] KubeJS 2001.6.5-build.14; MC 2001 forge
+[00:10:00] [INIT] Loaded plugins:
+[00:10:00] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[00:10:00] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[00:10:00] [INIT] - com.almostreliable.morejs.Plugin
+[00:10:00] [INIT] - fr.iglee42.createcasing.compat.kubejs.KubeJSCompatPlugin
+[00:10:00] [INIT] - com.oierbravo.createmechanicalextruder.compat.kubejs.KubeJSCreateMechanicalExtruderPlugin
+[00:10:00] [INIT] - com.oierbravo.create_mechanical_spawner.compat.kubejs.KubeJSCreateMechanicalSpawnerPlugin
+[00:10:00] [INIT] - qinomed.kubejsdelight.KubeJSDelightPlugin
+[00:10:00] [INIT] - moe.wolfgirl.probejs.plugin.BuiltinProbeJSPlugin
+[00:10:00] [INIT] - com.almostreliable.ponderjs.PonderJSPlugin
+[00:10:00] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[00:10:00] [ERROR] ! Rename.js#1: Unknown event 'ClientEvents.higPriorityAssets'!
+[00:10:00] [INFO] Loaded script client_scripts:Rename.js in 0.001 s
+[00:10:00] [INFO] Loaded 1/1 KubeJS client scripts in 0.057 s with 0 errors and 0 warnings
+[00:10:23] [INFO] Client resource reload complete!

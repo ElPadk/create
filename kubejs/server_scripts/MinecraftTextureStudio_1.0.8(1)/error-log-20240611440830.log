@@ -1,0 +1,13 @@
+Exception message: Could not read C:\Programmieren\JS Tweaker\Kube JS\Texturen\cinder_plate.png as a zip file
+Inner exception: Cannot read that as a ZipFile
+Inner exception stack trace
+   bei Ionic.Zip.ZipFile.ReadIntoInstance(ZipFile zf)
+   bei Ionic.Zip.ZipFile._InitInstance(String zipFileName, TextWriter statusMessageWriter)
+   bei Ionic.Zip.ZipFile..ctor(String fileName)
+Stack Trace
+   bei Ionic.Zip.ZipFile..ctor(String fileName)
+   bei MinecraftTextureStudio.FrmResourcePackExtract.extractZip()
+   bei System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   bei System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   bei System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   bei System.Threading.ThreadHelper.ThreadStart()

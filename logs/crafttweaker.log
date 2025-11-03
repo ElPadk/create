@@ -1,0 +1,106 @@
+[00:09:56.461][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production client modded with platform Forge
+[00:09:56.504][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
+[00:09:56.613][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
+[00:09:56.615][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[00:09:56.617][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin createtweaker:main
+[00:09:56.620][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin farmersdelight:crafttweaker_plugin
+[00:09:59.035][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
+[00:09:59.038][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.40'
+[00:09:59.038][INFO][CraftTweaker]: - 'createtweaker' at version '4.0.9'
+[00:09:59.038][INFO][CraftTweaker]: - 'farmersdelight' at version '1.20.1-1.2.4'
+[00:10:26.002][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'initialize'
+[00:10:26.395][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[00:10:26.457][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[00:10:26.600][INFO][CraftTweaker-ZenCode]: Execution for loader 'initialize' completed successfully
+[00:11:21.426][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'tags'
+[00:11:21.444][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[00:11:21.459][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[00:11:21.467][INFO][CraftTweaker-ZenCode]: Execution for loader 'tags' completed successfully
+[00:11:23.172][INFO][CraftTweaker]: CraftTweaker reload starting!
+[00:11:23.194][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'crafttweaker'
+[00:11:23.220][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[00:11:23.536][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
+[00:11:23.537][INFO][CraftTweaker-ZenCode]: Loading file 'Amethist\Amethist.zs' with priority 0
+[00:11:23.542][INFO][CraftTweaker-ZenCode]: Loading file 'Amethist\Glass Shard.zs' with priority 0
+[00:11:23.542][INFO][CraftTweaker-ZenCode]: Loading file 'Amethist\Glass Sherben.zs' with priority 0
+[00:11:23.543][INFO][CraftTweaker-ZenCode]: Loading file 'CoalCharcoal.zs' with priority 0
+[00:11:23.543][INFO][CraftTweaker-ZenCode]: Loading file 'CreamSnowBlock.zs' with priority 0
+[00:11:23.545][INFO][CraftTweaker-ZenCode]: Loading file 'Creator stuff\AnciendDebris\AnciendDebris.zs' with priority 0
+[00:11:23.545][INFO][CraftTweaker-ZenCode]: Loading file 'Creator stuff\AnciendDebris\GildetBlackstone.zs' with priority 0
+[00:11:23.545][INFO][CraftTweaker-ZenCode]: Loading file 'Creator stuff\Food.zs' with priority 0
+[00:11:23.545][INFO][CraftTweaker-ZenCode]: Loading file 'Creator stuff\Singu Core.zs' with priority 0
+[00:11:23.545][INFO][CraftTweaker-ZenCode]: Loading file 'Creator stuff\Swert.zs' with priority 0
+[00:11:23.547][INFO][CraftTweaker-ZenCode]: Loading file 'Creator stuff\creatorIngot.zs' with priority 0
+[00:11:23.547][INFO][CraftTweaker-ZenCode]: Loading file 'Dieastück8.zs' with priority 0
+[00:11:23.551][INFO][CraftTweaker-ZenCode]: Loading file 'Drawer\DrawerInfinitSpace.zs' with priority 0
+[00:11:23.551][INFO][CraftTweaker-ZenCode]: Loading file 'Drawer\DrawerUpgradedeploy.zs' with priority 0
+[00:11:23.551][INFO][CraftTweaker-ZenCode]: Loading file 'Fehlende Rezepte\Drils\radiant.zs' with priority 0
+[00:11:23.551][INFO][CraftTweaker-ZenCode]: Loading file 'Fehlende Rezepte\Drils\shadow.zs' with priority 0
+[00:11:23.552][INFO][CraftTweaker-ZenCode]: Loading file 'Fehlende Rezepte\FalllenSheet.zs' with priority 0
+[00:11:23.552][INFO][CraftTweaker-ZenCode]: Loading file 'Fehlende Rezepte\Liquid XP zu Orb.zs' with priority 0
+[00:11:23.552][INFO][CraftTweaker-ZenCode]: Loading file 'Fehlende Rezepte\grabbro zu granit.zs' with priority 0
+[00:11:23.552][INFO][CraftTweaker-ZenCode]: Loading file 'Fehlende Rezepte\scrorcia anpass.zs' with priority 0
+[00:11:23.552][INFO][CraftTweaker-ZenCode]: Loading file 'Obsidian.zs' with priority 0
+[00:11:23.552][INFO][CraftTweaker-ZenCode]: Loading file 'RainbowJelly.zs' with priority 0
+[00:11:23.552][INFO][CraftTweaker-ZenCode]: Loading file 'Reis\Reis(pancil).zs' with priority 0
+[00:11:23.552][INFO][CraftTweaker-ZenCode]: Loading file 'Sap.zs' with priority 0
+[00:11:23.553][INFO][CraftTweaker-ZenCode]: Loading file 'phantommembrane\phantonMemb.zs' with priority 0
+[00:11:23.553][INFO][CraftTweaker-ZenCode]: Loading file 'powderObi zu obi.zs' with priority 0
+[00:11:23.632][INFO][CraftTweaker]: Adding 'create:filling' recipe, with name: 'crafttweaker:amethist' that outputs: '<item:minecraft:amethyst_shard>'
+[00:11:23.634][INFO][CraftTweaker]: Adding 'create:sandpaper_polishing' recipe, with name: 'crafttweaker:polished' that outputs: '<item:kubejs:glass_shard>'
+[00:11:23.637][INFO][CraftTweaker]: Adding 'create:crushing' recipe, with name: 'crafttweaker:glass_sherben_crush' that outputs: '<item:quark:clear_shard> * 2'
+[00:11:23.638][INFO][CraftTweaker]: Adding 'create:milling' recipe, with name: 'crafttweaker:glass_sherben_mill' that outputs: '<item:quark:clear_shard> * 2'
+[00:11:23.640][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:coal/charcoal' that outputs: '<item:create_dd:coal_piece> * 8'
+[00:11:23.642][INFO][CraftTweaker]: Removing 'minecraft:crafting' recipe(s) with name(s): '[quark:tweaks/crafting/utility/misc/charcoal_to_black_dye]'
+[00:11:23.647][INFO][CraftTweaker]: Adding 'create:mixing' recipe, with name: 'crafttweaker:fluid_mixed' that outputs: '<item:minecraft:air>'
+[00:11:23.649][INFO][CraftTweaker]: Adding 'create:compacting' recipe, with name: 'crafttweaker:nethsrab' that outputs: '<item:minecraft:ancient_debris>'
+[00:11:23.650][INFO][CraftTweaker]: Adding 'create:item_application' recipe, with name: 'crafttweaker:name' that outputs: '<item:minecraft:gilded_blackstone>'
+[00:11:23.651][INFO][CraftTweaker]: Adding 'create:filling' recipe, with name: 'crafttweaker:emptier' that outputs: '<item:kubejs:anciendt_tempura>'
+[00:11:23.653][INFO][CraftTweaker]: Adding 'create:mechanical_crafting' recipe, with name: 'crafttweaker:mirrorized' that outputs: '<item:kubejs:creator_sword>'
+[00:11:23.660][INFO][CraftTweaker]: Adding 'create:sequenced_assembly' recipe, with name: 'crafttweaker:sequenced_assembly/creator_ingot' that outputs: '<item:kubejs:creator_ingot>'
+[00:11:23.661][INFO][CraftTweaker]: Removing 'minecraft:crafting' recipe(s) with name(s): '[create_dd:crafting/diamond_shard_compacting]'
+[00:11:23.663][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:dirt2diamond' that outputs: '<item:minecraft:diamond>'
+[00:11:23.665][INFO][CraftTweaker]: Adding 'create:deploying' recipe, with name: 'crafttweaker:upgrade_base' that outputs: '<item:storagedrawers:upgrade_template> * 4'
+[00:11:23.665][INFO][CraftTweaker]: Adding 'create:deploying' recipe, with name: 'crafttweaker:upgrade_obsidian' that outputs: '<item:storagedrawers:obsidian_storage_upgrade>'
+[00:11:23.666][INFO][CraftTweaker]: Adding 'create:deploying' recipe, with name: 'crafttweaker:upgrade_iron' that outputs: '<item:storagedrawers:iron_storage_upgrade>'
+[00:11:23.666][INFO][CraftTweaker]: Adding 'create:deploying' recipe, with name: 'crafttweaker:upgrade_gold' that outputs: '<item:storagedrawers:gold_storage_upgrade>'
+[00:11:23.666][INFO][CraftTweaker]: Adding 'create:deploying' recipe, with name: 'crafttweaker:upgrade_diamond' that outputs: '<item:storagedrawers:diamond_storage_upgrade>'
+[00:11:23.666][INFO][CraftTweaker]: Adding 'create:deploying' recipe, with name: 'crafttweaker:upgrade_emerald' that outputs: '<item:storagedrawers:emerald_storage_upgrade>'
+[00:11:23.667][INFO][CraftTweaker]: Adding 'create:deploying' recipe, with name: 'crafttweaker:upgrade_void' that outputs: '<item:storagedrawers:void_upgrade>'
+[00:11:23.668][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:radiant_drill' that outputs: '<item:create_dd:radiant_drill>'
+[00:11:23.668][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:shadoe_drill' that outputs: '<item:create_dd:shadow_drill>'
+[00:11:23.670][INFO][CraftTweaker]: Adding 'create:pressing' recipe, with name: 'crafttweaker:pressed' that outputs: '<item:create_dd:stargaze_singularity_sheet>'
+[00:11:23.670][INFO][CraftTweaker]: Adding 'create:filling' recipe, with name: 'crafttweaker:liqu_zu_orbs' that outputs: '<item:create:experience_nugget> * 4'
+[00:11:23.671][INFO][CraftTweaker]: Adding 'create:crushing' recipe, with name: 'crafttweaker:grabbo_zu_granite' that outputs: '<item:minecraft:granite>'
+[00:11:23.671][INFO][CraftTweaker]: Removing 'create:crushing' recipe(s) with name(s): '[vintageimprovements:crushing/scoria_recycling]'
+[00:11:23.671][INFO][CraftTweaker]: Removing 'create:crushing' recipe(s) with name(s): '[create_dd:crushing/scorchia]'
+[00:11:23.671][INFO][CraftTweaker]: Removing 'create:crushing' recipe(s) with name(s): '[create_dd:crushing/scorchia_recycling]'
+[00:11:23.671][INFO][CraftTweaker]: Adding 'create:crushing' recipe, with name: 'crafttweaker:besser_scorcia_crush' that outputs: '<item:create_dd:coal_piece>'
+[00:11:23.672][INFO][CraftTweaker]: Removing 'minecraft:crafting' recipe(s) with name(s): '[create_things_and_misc:powder_obsi_c_raft]'
+[00:11:23.673][INFO][CraftTweaker]: Adding 'create:mixing' recipe, with name: 'crafttweaker:mixed' that outputs: '<item:minecraft:glass>'
+[00:11:23.674][INFO][CraftTweaker]: Adding 'create:mixing' recipe, with name: 'crafttweaker:rainbowjelly' that outputs: '<item:alexsmobs:rainbow_jelly>'
+[00:11:23.674][INFO][CraftTweaker]: Adding 'create:crushing' recipe, with name: 'crafttweaker:pancil' that outputs: '<item:farmersdelight:rice> * 2'
+[00:11:23.678][INFO][CraftTweaker]: Removing 'create:emptying' recipes with output: 'com.blamejared.crafttweaker.api.fluid.CTFluidIngredient$FluidStackIngredient@78942285'
+[00:11:23.681][INFO][CraftTweaker]: Adding 'create:emptying' recipe, with name: 'crafttweaker:sap_oak' that outputs: '<item:minecraft:stripped_oak_log>'
+[00:11:23.681][INFO][CraftTweaker]: Adding 'create:emptying' recipe, with name: 'crafttweaker:sap_spruce' that outputs: '<item:minecraft:stripped_spruce_log>'
+[00:11:23.681][INFO][CraftTweaker]: Adding 'create:emptying' recipe, with name: 'crafttweaker:sap_birtch' that outputs: '<item:minecraft:stripped_birch_log>'
+[00:11:23.682][INFO][CraftTweaker]: Adding 'create:emptying' recipe, with name: 'crafttweaker:sap_jungel' that outputs: '<item:minecraft:stripped_jungle_log>'
+[00:11:23.682][INFO][CraftTweaker]: Adding 'create:emptying' recipe, with name: 'crafttweaker:sap_acacia' that outputs: '<item:minecraft:stripped_acacia_log>'
+[00:11:23.682][INFO][CraftTweaker]: Adding 'create:emptying' recipe, with name: 'crafttweaker:sap_cherry' that outputs: '<item:minecraft:stripped_cherry_log>'
+[00:11:23.682][INFO][CraftTweaker]: Adding 'create:emptying' recipe, with name: 'crafttweaker:sap_dark_oak' that outputs: '<item:minecraft:stripped_dark_oak_log>'
+[00:11:23.682][INFO][CraftTweaker]: Adding 'create:emptying' recipe, with name: 'crafttweaker:sap_rose' that outputs: '<item:create_dd:stripped_rose_log>'
+[00:11:23.684][INFO][CraftTweaker]: Adding 'create:emptying' recipe, with name: 'crafttweaker:sap_azalea' that outputs: '<item:quark:stripped_azalea_log>'
+[00:11:23.684][INFO][CraftTweaker]: Adding 'create:emptying' recipe, with name: 'crafttweaker:sap_ashen' that outputs: '<item:quark:stripped_ancient_log>'
+[00:11:23.684][INFO][CraftTweaker]: Adding 'create:emptying' recipe, with name: 'crafttweaker:sap_mangrove' that outputs: '<item:minecraft:stripped_mangrove_log>'
+[00:11:23.684][INFO][CraftTweaker]: Adding 'create:emptying' recipe, with name: 'crafttweaker:sap_trumpet' that outputs: '<item:quark:stripped_blossom_log>'
+[00:11:23.684][INFO][CraftTweaker]: Adding 'create:emptying' recipe, with name: 'crafttweaker:sap_rubbe' that outputs: '<item:create_dd:stripped_rubber_log>'
+[00:11:23.685][INFO][CraftTweaker]: Adding 'create:emptying' recipe, with name: 'crafttweaker:sap_pewen' that outputs: '<item:alexscaves:stripped_pewen_log>'
+[00:11:23.685][INFO][CraftTweaker]: Adding 'create:emptying' recipe, with name: 'crafttweaker:sap_spirit' that outputs: '<item:create_dd:stripped_spirit_log>'
+[00:11:23.685][INFO][CraftTweaker]: Adding 'create:emptying' recipe, with name: 'crafttweaker:sap_thorn' that outputs: '<item:alexscaves:stripped_thornwood_log>'
+[00:11:23.685][INFO][CraftTweaker]: Adding 'create:emptying' recipe, with name: 'crafttweaker:sap_crystall' that outputs: '<item:alexscaves:stripped_thornwood_log>'
+[00:11:23.685][INFO][CraftTweaker]: Adding 'create:emptying' recipe, with name: 'crafttweaker:sap_bucket' that outputs: '<item:minecraft:air>'
+[00:11:23.686][INFO][CraftTweaker]: Adding 'create:cutting' recipe, with name: 'crafttweaker:crushed' that outputs: '<item:minecraft:phantom_membrane>'
+[00:11:23.686][INFO][CraftTweaker]: Adding 'create:compacting' recipe, with name: 'crafttweaker:powder_zu_obi' that outputs: '<item:minecraft:obsidian>'
+[00:11:23.686][INFO][CraftTweaker-ZenCode]: Execution for loader 'crafttweaker' completed successfully
+[00:11:23.692][INFO][CraftTweaker]: CraftTweaker reload complete!
+[00:11:23.692][INFO][CraftTweaker]: This reload was made possible by NickT and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod

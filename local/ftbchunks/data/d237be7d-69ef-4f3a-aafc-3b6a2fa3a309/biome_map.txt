@@ -1,0 +1,13 @@
+#5C1 terralith:alpine_highlands
+#79D terralith:cave/andesite_caves
+#694 terralith:cave/deep_caves
+#6B9 terralith:cold_shrubland
+#4CA minecraft:dripstone_caves
+#5E2 terralith:forested_highlands
+#3C3 terralith:glacial_chasm
+#782 ad_astra:lunar_wastelands
+#11A alexscaves:magnetic_caves
+#588 terralith:moonlight_valley
+#1D5 ad_astra:orbit
+#5FF minecraft:river
+#720 terralith:steppe

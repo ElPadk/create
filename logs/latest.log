@@ -1,0 +1,317 @@
+[18:06:21] [main/INFO]: ModLauncher running: args [--username, MeisterEliFreak, --version, forge-47.2.0, --gameDir, C:\Users\Heck\curseforge\minecraft\Instances\Create, --assetsDir, C:\Users\Heck\curseforge\minecraft\Install\assets, --assetIndex, 5, --uuid, 04e3cabede4c4ea8901c87082328f227, --accessToken, ????????, --clientId, 18cc6c-595b26-29d714-e4cc67-10daf9a, --xuid, 2535457325000024, --userType, msa, --versionType, release, --width, 2560, --height, 1440, --quickPlayPath, C:\Users\Heck\curseforge\minecraft\Quickplay\1f26aa2a-8892-4be2-84d1-08267cecc3b7.json, --quickPlaySingleplayer, Surival, --launchTarget, forgeclient, --fml.forgeVersion, 47.2.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[18:06:21] [main/INFO]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.8 by Eclipse Adoptium; OS Windows 11 arch amd64 version 10.0
+[18:06:23] [main/INFO]: Loading ImmediateWindowProvider fmlearlywindow
+[18:06:23] [main/INFO]: Trying GL version 4.6
+[18:06:23] [main/INFO]: Requested GL version 4.6 got version 4.6
+[18:06:23] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/Heck/curseforge/minecraft/Install/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%23100!/ Service=ModLauncher Env=CLIENT
+[18:06:23] [pool-2-thread-1/INFO]: GL info: NVIDIA GeForce RTX 4060/PCIe/SSE2 GL version 4.6.0 NVIDIA 581.42, NVIDIA Corporation
+[18:06:24] [main/INFO]: Found mod file ad_astra-forge-1.20-1.15.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file ad_astra-forge-1.20.1-1.15.20.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file adastraextra-forge-1.20.1-1.2.3.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file AdditionalStructures-1.20.x-(v.4.2.2).jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file ae2wtlib-15.2.3-forge.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file alexscaves-1.1.4.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file alexscaves-2.0.2.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file alexsdelight-1.5.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file alexsmobs-1.22.8.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file alexsmobs-1.22.9.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file animal_feeding_trough-1.0.3+1.20-forge.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file animal_feeding_trough-1.1.0+1.20.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file Apotheosis-1.20.1-7.4.0.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file Apotheosis-1.20.1-7.4.8.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file ApothicAttributes-1.20.1-1.3.6.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file ApothicAttributes-1.20.1-1.3.7.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file appleskin-forge-mc1.20.1-2.5.1.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file appliedenergistics2-forge-15.2.11.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file appliedenergistics2-forge-15.4.8.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file architectury-9.2.14-forge.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file athena-forge-1.20.1-3.1.2.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file balancedflight-1.20.1_v2.3.0.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file balm-forge-1.20.1-7.3.35-all.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file balm-forge-1.20.1-7.3.6-all.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file bellsandwhistles-0.4.3-1.20.x.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file bellsandwhistles-0.4.5-1.20.x-Create6.0+.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file BiomesOPlenty-1.20.1-18.0.0.592.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file bitsnbobs-0.29-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file botarium-forge-1.20.1-2.3.4.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file buildinggadgets2-1.0.7.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file buildinggadgets2-1.0.8.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file Chipped-forge-1.20.1-3.0.6.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file chipped-forge-1.20.1-3.0.7.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file citadel-2.5.6-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file citadel-2.6.2-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file cloth-config-11.1.118-forge.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file cloth-config-11.1.136-forge.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file Clumps-forge-1.20.1-12.0.0.4.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file CobbleForDays-1.8.0.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file collective-1.20.1-7.81.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file collective-1.20.1-8.3.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file comforts-forge-6.4.0+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file constructionwand-1.20.1-2.11.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file Controlling-forge-1.20.1-12.0.2.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file copiescats-0.0.1-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file copycats-2.1.2+mc.1.20.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file copycats-3.0.2+mc.1.20.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file CraftTweaker-forge-1.20.1-14.0.40.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file CraftTweaker-forge-1.20.1-14.0.59.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file Create Encased-1.20.1-1.7.2-fix1.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file create-1.20.1-6.0.6.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file create-confectionery1.20.1_v1.1.0.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file Create-DnDesire-1.20.1-0.1b.Release-Early-Dev.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file Create-Dreams-n-Desires-1.20.1-0.2b.PREBETA.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file Create-Guardian-Beam-Defense-1.3.0b-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file Create-Guardian-Beam-Defense-1.3.2b-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file create-new-age-forge-1.20.1-1.1.2.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file create-new-age-forge-1.20.1-1.1.4.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file create-stuff-additions1.20.1_v2.0.4a.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file create-stuff-additions1.20.1_v2.1.0.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file create_connected-0.8.2-mc1.20.1-all.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file create_connected-1.1.7-mc1.20.1-all.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.d.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file create_enchantment_industry-1.3.3-for-create-6.0.6.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file create_ex_gears_unofficial-2.1.2-1.20.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file create_ex_gears_unofficial-2.2.2-1.20.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file create_jetpack-forge-4.2.1.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file create_jetpack-forge-4.4.2.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file create_mecanical_extruder-1.20.1-1.6.11-6.0.6.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file create_mechanical_extruder-1.20.1-1.5.7.e-22.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file create_mechanical_spawner-1.20.1-0.0.14.e-22.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file create_mechanical_spawner-1.20.1-0.1.7-6.0.6.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file create_misc_and_things_ 1.20.1_4.0A.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file create_oxidized-0.1.1.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file create_oxidized-0.1.2.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file create_power_loader-1.5.0-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file create_power_loader-2.0.3-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file create_recycle_1.0.2_forge_1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file create_tweaked_controllers-1.20.1-1.2.4.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file create_tweaked_controllers-1.20.1-1.2.5.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file create_wooderwheels-1.20.1-1.1.0.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file createaddition-1.20.1-1.2.4d.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file createaddition-1.20.1-1.3.2.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file createappliedkinetics-1.3.2-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file createappliedkinetics-1.5.1-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file createbicbit-1.20.1-0.0.86.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file createbicbit-1.20.1-1.0.1B.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file createbigcannons-5.5.1-mc.1.20.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file CreateCasing-1.20.1-1.6.1-fix1.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file createdeco-2.0.2-1.20.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file createdeco-2.0.3-1.20.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file createdieselgenerators-1.20.1-1.2i.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file createdieselgenerators-1.20.1-1.3.5.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file createframed-1.20.1-1.4.4.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file createframed-1.20.1-1.6.5.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file creategoggles-1.20.1-0.5.5.g-[FORGE].jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file creategoggles-1.20.1-6.1.0-[FORGE].jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file CreateTweaker-forge-1.20.1-4.0.15.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file CreateTweaker-forge-1.20.1-4.0.9.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file cristellib-1.1.5-forge.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file cristellib-1.1.6-forge.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file curios-forge-5.14.1+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file curios-forge-5.9.1+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file decorative_blocks-forge-1.20.1-4.1.3.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file design_decor-0.4-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file design_decor-0.4.0b-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file destroy-1.20.1-0.1.3.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file destroy-1.20.1-0.8.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file dsbg-1.0-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file Dungeon Crawl-1.20.1-2.3.15.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file DungeonsArise-1.20.x-2.1.58-release.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file easy-villagers-forge-1.20.1-1.1.23.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file elevatorid-1.20.1-1.9.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file emi-1.1.22+1.20.1+forge.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file entangled-1.3.20-forge-mc1.20.4.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file entityculling-forge-1.8.2-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file extendedgears-2.1.1-1.20.1-0.5.1.f-forge.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file ExtremeSoundMuffler-3.49.1-forge-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file FarmersDelight-1.20.1-1.2.4.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file FarmersDelight-1.20.1-1.2.9.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file FastLeafDecay-32.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file FluxNetworks-1.20.1-7.2.1.15.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file FramedBlocks-9.4.2.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file ftb-chunks-forge-2001.3.1.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file ftb-chunks-forge-2001.3.6.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file ftb-library-forge-2001.2.10.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file ftb-library-forge-2001.2.2.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file ftb-teams-forge-2001.3.0.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file ftb-teams-forge-2001.3.1.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file ftb-ultimine-forge-2001.1.5.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file ftb-ultimine-forge-2001.1.7.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file fullbrightnesstoggle-1.20.1-4.3.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file fusion-1.1.1-forge-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file fusion-1.2.11a-forge-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file garnished-1.8.8+1.20.1-neoforged.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file garnished-2.1.2+1.20.1-neoforged.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file geckolib-forge-1.20.1-4.4.7.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file geckolib-forge-1.20.1-4.7.4.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file gravestone-forge-1.20.1-1.0.33.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file guideme-20.1.12.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file interiors-0.5.4+forge-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file interiors-0.5.6+forge-mc1.20.1-local.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file ironchest-1.20.1-14.4.4.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file Jade-1.20.1-Forge-11.13.2.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file kotlinforforge-4.11.0-all.jar of type LIBRARY with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file kubejs-create-forge-2001.3.0-build.8.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file kubejs-forge-2001.6.5-build.16.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file LibX-1.20.1-5.0.12.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file liquidburner-1.20.1-0.5.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file mcw-bridges-3.0.0-mc1.20.1forge.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file mcw-bridges-3.1.0-mc1.20.1forge.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file mcw-doors-1.1.1forge-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file mcw-doors-1.1.2-mc1.20.1forge.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file mcw-fences-1.1.2-mc1.20.1forge.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file mcw-fences-1.2.0-1.20.1forge.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file mcw-furniture-3.2.2-mc1.20.1forge.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file mcw-furniture-3.3.0-mc1.20.1forge.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file mcw-paths-1.0.5-1.20.1forge.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file mcw-paths-1.1.0forge-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file mcw-roofs-2.3.2-mc1.20.1forge.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file mcw-trapdoors-1.1.3-mc1.20.1forge.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file mcw-trapdoors-1.1.4-mc1.20.1forge.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file moonlight-1.20-2.12.6-forge.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file moonlight-1.20-2.16.10-forge.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file morejs-forge-1.20.1-0.10.1.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file moreoverlays-1.22.7-mc1.20.2.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file moreoverlays-1.24.1-mc1.20.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file morevillagers-forge-1.20.1-5.0.0.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file MouseTweaks-forge-mc1.20.1-2.25.1.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file NaturesCompass-1.20.1-1.11.2-forge.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file northstar-0.1cb-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file Patchouli-1.20.1-84-FORGE.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file Patchouli-1.20.1-84.1-FORGE.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file Placebo-1.20.1-8.6.2.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file Placebo-1.20.1-8.6.3.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file polymorph-forge-0.49.10+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file polymorph-forge-0.49.5+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file ponderjs-1.20.1-2.0.6.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file Quark-4.0-462.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file rechiseled-1.1.6-forge-mc1.20.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file rechiseledcreate-1.0.2-forge-mc1.20.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file rechiseledcreate-1.0.2b-forge-mc1.20.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file resourcefulconfig-forge-1.20.1-2.1.2.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file resourcefulconfig-forge-1.20.1-2.1.3.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file resourcefullib-forge-1.20.1-2.1.25.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file resourcefullib-forge-1.20.1-2.1.29.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file Rex's-AdditionalStructures-1.20.x-(v.4.2.1).jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file rhino-forge-2001.2.2-build.18.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file rhino-forge-2001.2.3-build.10.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file Searchables-forge-1.20.1-1.0.3.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file SimplyTools-1.20.1-2.0.8.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file sliceanddice-forge-3.2.0.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file sliceanddice-forge-3.4.1.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file sophisticatedbackpacks-1.20.1-3.20.5.1044.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file sophisticatedbackpacks-1.20.1-3.24.5.1356.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file sophisticatedcore-1.20.1-0.6.22.611.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file sophisticatedcore-1.20.1-1.2.89.1147.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file sophisticatedstorage-1.20.1-0.10.25.804.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file sophisticatedstorage-1.20.1-1.4.3.1279.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file spark-1.10.53-forge.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file Steam_Rails-1.6.4+forge-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file Steam_Rails-1.6.7+forge-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file storagedrawers-1.20.1-12.0.3.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file StorageDrawers-forge-1.20.1-12.14.2.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file structure_gel-1.20.1-2.16.2.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file supermartijn642configlib-1.1.8-forge-mc1.20.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file supermartijn642corelib-1.1.17-forge-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file supermartijn642corelib-1.1.18-forge-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file supplementaries-1.20-2.8.17.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file supplementaries-1.20-3.1.38.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file TerraBlender-forge-1.20.1-3.0.1.10.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file TerraBlender-forge-1.20.1-3.0.1.7.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file Terralith_1.20.x_v2.5.4.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file Terralith_1.20_v2.5.1.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file tfmg-0.9.0d-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file tfmg-1.0.2c.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file the-conjurer-1.20.1-1.1.6.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file time-in-a-bottle-4.0.4-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file timecontrol-1.20.1-1.6.0.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file toms_storage-1.20-1.6.7.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file toms_storage-1.20-1.7.1.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file torchmaster-20.1.6.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file torchmaster-20.1.9.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file Towns-and-Towers-1.12-Fabric+Forge.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file trainperspectivefix-1.0.0-universal.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file trashcans-1.0.18b-forge-mc1.20.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file travelersbackpack-forge-1.20.1-9.1.14.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file travelersbackpack-forge-1.20.1-9.1.40.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file trimmable-tools-mc1.20-v1.0.4.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file trimmable_tools-forge-2.0.5.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file trimmed-forge-1.20.1-2.1.4-all.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file vegandelight-1.3.2.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file vegandelight-1.4.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file vintageimprovements-1.20.1-0.1.5.1.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file vintageimprovements-1.20.1-0.2.0.3.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file waystones-forge-1.20.1-14.1.17.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file Xaeros_Minimap_25.2.10_Forge_1.20.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file XaerosWorldMap_1.39.12_Forge_1.20.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file YungsApi-1.20-Forge-4.0.5.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file YungsApi-1.20-Forge-4.0.6.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file YungsBetterDungeons-1.20-Forge-4.0.4.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file YungsBetterEndIsland-1.20-Forge-2.0.6.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/INFO]: Found mod file Zeta-1.0-30.jar of type MOD with provider {mods folder locator at C:\Users\Heck\curseforge\minecraft\Instances\Create\mods}
+[18:06:24] [main/WARN]: Mod file C:\Users\Heck\curseforge\minecraft\Install\libraries\net\minecraftforge\fmlcore\1.20.1-47.2.0\fmlcore-1.20.1-47.2.0.jar is missing mods.toml file
+[18:06:24] [main/WARN]: Mod file C:\Users\Heck\curseforge\minecraft\Install\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.2.0\javafmllanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[18:06:24] [main/WARN]: Mod file C:\Users\Heck\curseforge\minecraft\Install\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.2.0\lowcodelanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[18:06:24] [main/WARN]: Mod file C:\Users\Heck\curseforge\minecraft\Install\libraries\net\minecraftforge\mclanguage\1.20.1-47.2.0\mclanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[18:06:24] [main/INFO]: Found mod file fmlcore-1.20.1-47.2.0.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@3cbcd8f3
+[18:06:24] [main/INFO]: Found mod file javafmllanguage-1.20.1-47.2.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@3cbcd8f3
+[18:06:24] [main/INFO]: Found mod file lowcodelanguage-1.20.1-47.2.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@3cbcd8f3
+[18:06:24] [main/INFO]: Found mod file mclanguage-1.20.1-47.2.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@3cbcd8f3
+[18:06:24] [main/INFO]: Found mod file client-1.20.1-20230612.114412-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@3cbcd8f3
+[18:06:24] [main/INFO]: Found mod file forge-1.20.1-47.2.0-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@3cbcd8f3
+[18:06:24] [main/WARN]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[18:06:24] [main/INFO]: Found 22 dependencies adding them to mods collection
+[18:06:24] [main/INFO]: Found mod file MixinSquared-0.1.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@6a4ccef7
+[18:06:24] [main/INFO]: Found mod file mixinextras-forge-0.2.0-beta.9.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@6a4ccef7
+[18:06:24] [main/INFO]: Found mod file kuma-api-forge-20.1.11+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@6a4ccef7
+[18:06:24] [main/INFO]: Found mod file jankson-1.2.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@6a4ccef7
+[18:06:24] [main/INFO]: Found mod file mixinsquared-forge-0.1.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@6a4ccef7
+[18:06:24] [main/INFO]: Found mod file yabn-1.0.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@6a4ccef7
+[18:06:24] [main/INFO]: Found mod file kfflang-4.11.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@6a4ccef7
+[18:06:24] [main/INFO]: Found mod file Ponder-Forge-1.20.1-1.0.81.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@6a4ccef7
+[18:06:24] [main/INFO]: Found mod file Registrate-MC1.20-1.3.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@6a4ccef7
+[18:06:24] [main/INFO]: Found mod file TRansition-1.0.3-1.20.1-forge-SNAPSHOT.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@6a4ccef7
+[18:06:24] [main/INFO]: Found mod file spectrelib-forge-0.13.17+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@6a4ccef7
+[18:06:24] [main/INFO]: Found mod file flightlib-forge-2.1.0.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@6a4ccef7
+[18:06:24] [main/INFO]: Found mod file mclib-20.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@6a4ccef7
+[18:06:24] [main/INFO]: Found mod file caffeine-3.2.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@6a4ccef7
+[18:06:24] [main/INFO]: Found mod file TRender-1.0.5-1.20.1-forge-SNAPSHOT.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@6a4ccef7
+[18:06:24] [main/INFO]: Found mod file kfflib-4.11.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@6a4ccef7
+[18:06:24] [main/INFO]: Found mod file kffmod-4.11.0.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@6a4ccef7
+[18:06:24] [main/INFO]: Found mod file bytecodecs-1.0.2.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@6a4ccef7
+[18:06:24] [main/INFO]: Found mod file flywheel-forge-1.20.1-1.0.4-243.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@6a4ccef7
+[18:06:24] [main/INFO]: Found mod file jlayer-1.0.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@6a4ccef7
+[18:06:24] [main/INFO]: Found mod file ritchiesprojectilelib-2.0.0-dev+mc.1.20.1-forge-build.182.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@6a4ccef7
+[18:06:24] [main/INFO]: Found mod file MixinExtras-0.4.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@6a4ccef7
+[18:06:28] [main/INFO]: Compatibility level set to JAVA_17
+[18:06:28] [main/INFO]: Successfully loaded Mixin Connector [com.leobeliik.extremesoundmuffler.MixinConnector]
+[18:06:28] [main/INFO]: Launching target 'forgeclient' with arguments [--version, forge-47.2.0, --gameDir, C:\Users\Heck\curseforge\minecraft\Instances\Create, --assetsDir, C:\Users\Heck\curseforge\minecraft\Install\assets, --uuid, 04e3cabede4c4ea8901c87082328f227, --username, MeisterEliFreak, --assetIndex, 5, --accessToken, ????????, --clientId, 18cc6c-595b26-29d714-e4cc67-10daf9a, --xuid, 2535457325000024, --userType, msa, --versionType, release, --width, 2560, --height, 1440, --quickPlayPath, C:\Users\Heck\curseforge\minecraft\Quickplay\1f26aa2a-8892-4be2-84d1-08267cecc3b7.json, --quickPlaySingleplayer, Surival]
+[18:06:28] [main/WARN]: Reference map 'Create_WooderWheels.refmap.json' for create_wooderwheels.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:06:28] [main/WARN]: Reference map 'createframed.refmap.json' for createframed.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:06:28] [main/WARN]: Reference map 'morevillagers-forge-forge-refmap.json' for morevillagers.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:06:28] [main/WARN]: Reference map 'createappliedkinetics.refmap.json' for createappliedkinetics.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:06:28] [main/WARN]: Reference map 'tfmg.refmap.json' for design_decor.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:06:28] [main/WARN]: Reference map 'createbitterballen.refmap.json' for create_bic_bit.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:06:28] [main/WARN]: Reference map 'Create-The_Factory_Must_Grow.refmap.json' for tfmg.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:06:28] [main/WARN]: Reference map 'gbd.refmap.json' for gbd.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:06:28] [main/WARN]: Reference map 'trainperspectivefix.refmap.json' for trainperspectivefix.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:06:28] [main/WARN]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:06:28] [main/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[18:06:28] [main/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[18:06:29] [main/WARN]: Error loading class: mezz/modnametooltip/TooltipEventHandler (java.lang.ClassNotFoundException: mezz.modnametooltip.TooltipEventHandler)
+[18:06:29] [main/WARN]: Error loading class: me/shedaniel/rei/impl/client/ClientHelperImpl (java.lang.ClassNotFoundException: me.shedaniel.rei.impl.client.ClientHelperImpl)
+[18:06:29] [main/INFO]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
+[18:06:29] [main/INFO]: Replaced 1 calls to Enchantment#isTreasureOnly() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
+[18:06:29] [main/INFO]: Replaced 1 calls to Enchantment#isTradeable() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
+[18:06:29] [main/WARN]: Error loading class: com/simibubi/create/foundation/ponder/ui/PonderTagScreen (java.lang.ClassNotFoundException: com.simibubi.create.foundation.ponder.ui.PonderTagScreen)
+[18:06:29] [main/WARN]: @Mixin target com.simibubi.create.foundation.ponder.ui.PonderTagScreen was not found destroy.mixins.json:accessor.PonderTagScreenAccessor
+[18:06:29] [main/WARN]: Error loading class: com/simibubi/create/foundation/gui/element/RenderElement$SimpleRenderElement (java.lang.ClassNotFoundException: com.simibubi.create.foundation.gui.element.RenderElement$SimpleRenderElement)
+[18:06:29] [main/WARN]: @Mixin target com.simibubi.create.foundation.gui.element.RenderElement$SimpleRenderElement was not found destroy.mixins.json:accessor.SimpleRenderElementAccessor
+[18:06:29] [main/WARN]: Error loading class: com/simibubi/create/foundation/ponder/ui/PonderTagScreen (java.lang.ClassNotFoundException: com.simibubi.create.foundation.ponder.ui.PonderTagScreen)
+[18:06:29] [main/WARN]: @Mixin target com.simibubi.create.foundation.ponder.ui.PonderTagScreen was not found destroy.mixins.json:PonderTagScreenMixin
+[18:06:29] [main/WARN]: Error loading class: com/simibubi/create/foundation/ponder/ui/PonderUI (java.lang.ClassNotFoundException: com.simibubi.create.foundation.ponder.ui.PonderUI)
+[18:06:29] [main/WARN]: @Mixin target com.simibubi.create.foundation.ponder.ui.PonderUI was not found destroy.mixins.json:PonderUIMixin
+[18:06:29] [main/INFO]: Patching EffectRenderingInventoryScreen#renderEffects
+[18:06:29] [main/INFO]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/inventory/AnvilMenu
+[18:06:29] [main/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[18:06:29] [main/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[18:06:29] [main/WARN]: Error loading class: com/hollingsworth/arsnouveau/common/items/SpellCrossbow (java.lang.ClassNotFoundException: com.hollingsworth.arsnouveau.common.items.SpellCrossbow)

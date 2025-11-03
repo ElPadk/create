@@ -1,0 +1,21 @@
+[00:09:59] [INIT] KubeJS 2001.6.5-build.14; MC 2001 forge
+[00:09:59] [INIT] Loaded plugins:
+[00:09:59] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[00:09:59] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[00:09:59] [INIT] - com.almostreliable.morejs.Plugin
+[00:09:59] [INIT] - fr.iglee42.createcasing.compat.kubejs.KubeJSCompatPlugin
+[00:09:59] [INIT] - com.oierbravo.createmechanicalextruder.compat.kubejs.KubeJSCreateMechanicalExtruderPlugin
+[00:09:59] [INIT] - com.oierbravo.create_mechanical_spawner.compat.kubejs.KubeJSCreateMechanicalSpawnerPlugin
+[00:09:59] [INIT] - qinomed.kubejsdelight.KubeJSDelightPlugin
+[00:09:59] [INIT] - moe.wolfgirl.probejs.plugin.BuiltinProbeJSPlugin
+[00:09:59] [INIT] - com.almostreliable.ponderjs.PonderJSPlugin
+[00:09:59] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[00:10:00] [INFO] Loaded script startup_scripts:Creator_Stuff/Creator Level.js in 0.091 s
+[00:10:00] [INFO] Loaded script startup_scripts:Creator_Stuff/Creator Tab.js in 0.001 s
+[00:10:00] [INFO] Loaded script startup_scripts:Creator_Stuff/Creator Tools.js in 0.0 s
+[00:10:00] [INFO] Loaded script startup_scripts:Creator_Stuff/ZwichenItems.js in 0.003 s
+[00:10:00] [INFO] Loaded script startup_scripts:Flowbery.js in 0.002 s
+[00:10:00] [INFO] Loaded script startup_scripts:food.js in 0.001 s
+[00:10:00] [INFO] Loaded script startup_scripts:ItemAnpassungen.js in 0.002 s
+[00:10:00] [INFO] Loaded script startup_scripts:Items(divers).js in 0.001 s
+[00:10:00] [INFO] Loaded 8/8 KubeJS startup scripts in 0.946 s with 0 errors and 0 warnings
